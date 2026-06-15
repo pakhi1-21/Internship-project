@@ -1,0 +1,21 @@
+# ============================================
+# NetSight - Python Dependencies
+# ============================================
+
+# Web Framework
+flask>=3.0.0
+
+# Network Packet Capture
+scapy>=2.5.0
+
+# AI / Machine Learning
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+joblib>=1.3.0
+
+# PDF Report Generation
+reportlab>=4.1.0
+
+# Utilities
+python-dateutil>=2.8.0
